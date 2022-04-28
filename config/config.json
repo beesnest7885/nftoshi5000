@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5333Afb0Ab519610e68cf567C4Ed301fA96E8Ccc",
+  "SCAN_LINK": "https://polygonscan.com/token/0x5333afb0ab519610e68cf567c4ed301fa96e8ccc",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "NFToshis",
+  "SYMBOL": "NFTs",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": "first 100 free",
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nftoshis-1",
+  "SHOW_BACKGROUND": true
+}
